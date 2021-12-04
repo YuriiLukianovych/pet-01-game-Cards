@@ -3,6 +3,7 @@
    margin: 0;
 }
 body {
+   font-family: Arial, Helvetica, sans-serif;
    background-color: #ccc;
    padding: 100px;
    display: flex;
